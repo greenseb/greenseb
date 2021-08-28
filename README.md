@@ -9,6 +9,8 @@ I love working with:
 * TypeScript
 * Express
 
+Outside of development i'm a digital artist with a passion for film, travel and keeping fit.🎨
+
 Want to know more?
 <br>
 --> [LinkedIn](https://www.linkedin.com/in/sebastiangreen13/)
