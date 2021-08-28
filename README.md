@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I'm a Full-Stack Developer with an eye for design. I enjoy building apps in React but i'm always looking to venture in to new technologies.
 
 <!--
 **greenseb/greenseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
