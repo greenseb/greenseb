@@ -3,6 +3,7 @@
 I'm a Full-Stack Developer with an eye for design. I enjoy building apps in React but i'm always looking to venture in to new technologies.
 
 Want to know more?
+<br>
 --> [LinkedIn](https://www.linkedin.com/in/sebastiangreen13/)
 
 <!--
