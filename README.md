@@ -2,9 +2,9 @@
 
 I'm a Full-Stack Developer with an eye for design. I enjoy building apps in React but i'm always looking to venture in to new technologies.
 
-Recenly I've been working on [Localife](https://github.com/geuxor/localife-frontend) 🌎
+My latest project is [Localife](https://github.com/geuxor/localife-frontend) 🌎
 
-I love:
+I love working with:
 * React
 * MongoDB
 * Redux
