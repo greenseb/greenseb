@@ -5,11 +5,14 @@ I'm a Full-Stack Developer with an eye for design. I enjoy building apps in Reac
 My latest project is [Localife](https://github.com/geuxor/localife-frontend) 🌎
 
 I love working with:
-* React
-* MongoDB
-* Redux
-* TypeScript
-* Express
+<br>
+<img src="./images/redux.png" width="40" display="inline-block">
+<img src="./images/react.png" width="40" display="inline-block">
+<img src="./images/nodejs.png" width="40" display="inline-block">
+<img src="./images/49996085.png" width="40" display="inline-block">
+<img src="./images/mdb.png" width="40" display="inline-block">
+<img src="./images/js.png" width="40" display="inline-block">
+<img src="./images/typescript.png" width="40" display="inline-block">
 
 Outside of development i'm a digital artist with a passion for film, travel and keeping fit.🎨
 
