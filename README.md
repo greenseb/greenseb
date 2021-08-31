@@ -14,6 +14,8 @@ I love working with:
 <img src="./images/js.png" width="40" display="inline-block">
 <img src="./images/typescript.png" width="40" display="inline-block">
 
+I'm currently trying to master: <br><br>
+TypeScript & Redux🔧 <br><br>
 Outside of development i'm a digital artist with a passion for film, travel and keeping fit.🎨
 
 Want to know more?
